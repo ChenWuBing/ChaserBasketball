@@ -1,5 +1,5 @@
-# 居安民宿
+# 直播吧-最新篮球赛事
 
-We are a hotel and hostel that provides accommodation for travelers. Travelers can rest assured that they can make an appointment online. We guarantee that the environment is excellent and the service is in place. Let customers live with peace of mind and hope that customers will have a good trip.
+We are a platform for text broadcasting of various basketball matches. Users can get the latest news of basketball matches on our platform, and the audience can interact in real time. Our platform recognizes the authority and openness of all data. For every basketball game that is being played, there is a dedicated anchor to describe the situation of the court in writing.
 
 If you have any questions, please contact the technical support email: xiangyupao@foxmail.com, thank you for your support.
