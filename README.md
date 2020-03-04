@@ -1,5 +1,5 @@
 # 直播吧-最新篮球赛事
 
-We are a platform to broadcast basketball games in live text. Users can get the latest basketball game news on our platform. For each basketball game played, a dedicated host describes the situation on the court in writing.
+我們是一個專為足球愛好者提供足球場地預約的平台，足球愛好者隊伍可以通過我們的平台預訂合適他們打比賽的場地，我們平台提供多種多樣的綠色安全場地。歡迎廣大足球愛好者前來選定。
 
-If you have any questions, please contact the technical support email: xiangyupao@foxmail.com, thank you for your support.
+
