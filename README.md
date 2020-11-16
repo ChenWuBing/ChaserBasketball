@@ -1,5 +1,5 @@
-# 滚球体育--网球冲冲冲
+# Keep Up Sports
 
-我们是网球迷预订场地的平台。网球迷可以通过我们的平台预订适合他们的场地。 我们还可以提供专业教练。 我们的平台提供各种绿色安全的场所。 欢迎网球迷前来选择。
+We are a platform for sports fans to book venues. Sports fans can book venues suitable for them through our platform. We can also provide professional coaches. Our platform provides a variety of green and safe places. Sports fans are welcome to come and choose.
 
-如有任何疑问，请联系技术支持电子邮件：tang008mh@21cn.com，谢谢您的支持。
+If you have any questions, please contact the technical support email: ngocanhxinh@hotmail.com, thank you for your support.
